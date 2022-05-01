@@ -19,6 +19,6 @@ class PainelController extends Controller
      */
     public function index()
     {
-        return view('painel');
+        return view('painel.index');
     }
 }

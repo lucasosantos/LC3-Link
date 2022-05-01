@@ -1,7 +1,7 @@
 @extends('layouts.app')
 
 @section('titulo')
-    Início - LC3 Link
+    titulo da pagina
 @endsection
 
 @section('content')
